@@ -1,2 +1,3 @@
 # hello-world
-the standard
+the standard tutorial
+fun fun fun
